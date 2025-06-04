@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Oriol and I'm a Software Engineer</h2>
+<h2 align="center">Hi 👋! My name is Edu and I'm a Software Engineer</h2>
 
 ###
 
@@ -50,10 +50,10 @@
 ###
 
 <div align="center">
-  <a href="mailto:oriol.linan@gmail.com" target="_blank">
+  <a href="mailto:edwich24@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/oriol-linan/" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardo-window/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -63,7 +63,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/oriollinan/oriollinan/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/edu24epitech/edu24epitech/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
