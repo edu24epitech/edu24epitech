@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋! My name is Edu and I'm a Software Engineer</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edu24epitech&show_icons=true&theme=dark" alt="Edu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu24epitech&layout=compact&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edu24epitech&show_icons=true&theme=dark" alt="Edu's GitHub Stats"  height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu24epitech&layout=compact&theme=dark" alt="Most Used Languages" height="150" alt="languages graph" />
 </p>
 
 ---
@@ -28,19 +28,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
----
-
 ### 📫 Contact
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" /></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="gmail logo" /></a>
 </p>
 
----
+<br clear="both">
 
-### 📊 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/edu24epitech/edu24epitech/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/edu24epitech/edu24epitech/output/snake.svg" alt="Snake animation" />
+</div>
